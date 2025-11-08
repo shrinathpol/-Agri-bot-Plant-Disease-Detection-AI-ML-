@@ -64,3 +64,4 @@ npm start
 3.  Click the "Detect Disease" button.
 4.  The application will display the analysis result from the AI model, including the detected disease, a confidence score, and a recommended course of action.
 # -Agri-bot-Plant-Disease-Detection-AI-ML-
+# -Agri-bot-Plant-Disease-Detection-AI-ML-
