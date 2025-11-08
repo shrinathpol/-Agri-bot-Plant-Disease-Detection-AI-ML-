@@ -164,4 +164,3 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 * **Shrinath Pol** - *Project Developer*
 * **vidyashreesh9** - *Original Repository Owner*
 * **PlantVillage Dataset** - *For the training data*
-* **Readme Template:** [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template)
