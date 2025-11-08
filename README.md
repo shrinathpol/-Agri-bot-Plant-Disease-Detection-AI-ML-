@@ -161,6 +161,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## 🙏 Acknowledgments
 
-* **Shrinath Pol** - *Project Developer*
+* **Shrinath Pol** - *collabrator*
 * **vidyashreesh9** - *Original Repository Owner*
 * **PlantVillage Dataset** - *For the training data*
