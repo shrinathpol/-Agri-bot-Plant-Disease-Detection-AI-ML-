@@ -1,0 +1,71 @@
+body {
+  background-color: #f0f2f5;
+  color: #333;
+}
+
+.app-container {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.header-title {
+  color: #2c5e32;
+  font-weight: bold;
+}
+
+.header-subtitle {
+  color: #555;
+  margin-bottom: 2rem;
+}
+
+.upload-section {
+  background-color: #f9f9f9;
+  border: 2px dashed #ccc;
+  border-radius: 8px;
+  padding: 2rem;
+  text-align: center;
+  cursor: pointer;
+  transition: background-color 0.3s, border-color 0.3s;
+}
+
+.upload-section:hover {
+  background-color: #eef2e9;
+  border-color: #2c5e32;
+}
+
+.upload-icon {
+  font-size: 3rem;
+  color: #2c5e32;
+}
+
+.image-preview {
+  max-width: 100%;
+  max-height: 300px;
+  border-radius: 8px;
+  margin-top: 1rem;
+  border: 1px solid #ddd;
+}
+
+.results-card {
+  margin-top: 2rem;
+  opacity: 0;
+  transform: translateY(20px);
+  animation: fadeIn 0.5s forwards;
+}
+
+@keyframes fadeIn {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.result-image {
+  max-width: 150px;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+}
